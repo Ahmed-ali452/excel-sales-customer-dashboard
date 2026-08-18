@@ -30,6 +30,10 @@ The dashboard helps analyze sales performance, customer activity, product perfor
 - Pivot Table Analysis
 - Data Filtering
 
+ ## 📸 Dashboard Preview
+
+![Excel Sales & Customer Analytics Dashboard](dash.jpg)
+
 ## 🎯 Purpose
 
 The purpose of this project is to transform raw sales data into meaningful business insights through Excel-based data analysis and visualization.
